@@ -3,3 +3,12 @@ pandas
 numpy
 pyttsx3
 scikit-learn
+openai
+streamlit
+PyPDF2
+asyncio
+edge-tts
+sounddevice
+soundfile
+numpy
+pydub
